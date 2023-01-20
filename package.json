@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/main.css -o ./dist/main.css --watch",
+    "deploy": "npx tailwindcss -i ./src/main.css -o ./dist/main.css",
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  }
+}
