@@ -12,10 +12,6 @@ Then:
 ```sh
 npm install
 ```
-### Code Editor directly in the browser
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sammyjsimmons/sammy)
-
 
 ## 🚀 Project Structure
 
