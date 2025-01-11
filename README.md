@@ -14,7 +14,7 @@ npm install
 ```
 ### Code Editor directly in the browser
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sammyjsimmons/sammy)
 
 
 ## 🚀 Project Structure
