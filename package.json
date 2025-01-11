@@ -1,11 +1,16 @@
 {
+  "name": "sammy",
+  "type": "module",
+  "version": "0.0.1",
   "scripts": {
-    "dev": "npx tailwindcss -i ./src/main.css -o ./dist/main.css --watch",
-    "deploy": "npx tailwindcss -i ./src/main.css -o ./dist/main.css",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
-  "devDependencies": {
-    "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.4"
+  "dependencies": {
+    "@astrojs/tailwind": "^5.1.4",
+    "astro": "^5.1.5",
+    "tailwindcss": "^3.4.17"
   }
 }
